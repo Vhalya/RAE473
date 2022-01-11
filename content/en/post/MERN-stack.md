@@ -1,6 +1,6 @@
 ---
 date: 2021-11-15T10:58:08-04:00
-description: "MERN website"
+description: "Create a MERN website"
 featured_image: "/images/MERN-logo.png"
 tags: ["mern"]
 title: "Learning the MERN stack "
