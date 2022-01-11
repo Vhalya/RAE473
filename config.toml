@@ -1,5 +1,5 @@
 title = "The MERN stack"
-baseURL = "https://example.com"
+baseURL = "https://vg-personal-blog.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
