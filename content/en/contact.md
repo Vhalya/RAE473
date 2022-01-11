@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "static/images/notebook.jpg"
+featured_image: "/images/notebook.jpg"
 omit_header_text: true
 description: Don't hesitate to contact me ! 
 type: page

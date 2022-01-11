@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Victor Gondry"
-  favicon = "/static/images/mern-logo-bis.png"
+  favicon = "/images/mern-logo-bis.png"
   site_logo = ""
   description = "The MERN stack"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
